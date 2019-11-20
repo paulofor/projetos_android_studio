@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <br.com.digicom.layout.ItemLista xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+
+
+     <TextView
+         android:id="@+id/txtDataTreino"
+		 style="@style/linhaItemLista1"
+         android:text="Nome"
+	  />
+      
+      
+
+      <GridLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+    	xmlns:app="http://schemas.android.com/apk/res/com.commonsware.android.gridlayout"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+     	android:columnCount="3"
+    	android:rowCount="3"
+    	android:orientation="horizontal"
+  		>
+    	
+		 <TextView
+         	android:id="@+id/txtExercicioRepeticao1"
+         	android:text="12"
+         	style="@style/linhaItemLista2" />
+		 <TextView
+         	android:id="@+id/txtExercicioCarga1"
+          	android:text=" x 45.00"
+         	style="@style/linhaItemLista2"  />
+
+		 <TextView
+		     android:id="@+id/txtExercicioHorario1"
+		     android:layout_marginLeft="3dp"
+		     android:text=" : 12:00:00"
+		     style="@style/linhaItemLista2" />
+		 
+		 <TextView
+		     android:id="@+id/txtExercicioRepeticao2"
+		     android:layout_gravity="right"
+		     android:text="10"
+		     style="@style/linhaItemLista2"/>
+
+		 <TextView
+         	android:id="@+id/txtExercicioCarga2"
+         	android:text=" x 45.00"
+         	style="@style/linhaItemLista2"
+         />
+		 <TextView
+         	android:id="@+id/txtExercicioHorario2"
+         	android:text=" : 12:00:00"
+         	android:layout_marginLeft="3dp"
+         	style="@style/linhaItemLista2"
+         />
+		 
+         <TextView
+             android:id="@+id/txtExercicioRepeticao3"
+             android:layout_gravity="right"
+             android:text="8"
+             style="@style/linhaItemLista2" />
+
+         <TextView
+         	android:id="@+id/txtExercicioCarga3"
+         	android:text=" x 45.00"
+         	style="@style/linhaItemLista2"
+         />
+		 <TextView
+         	android:id="@+id/txtExercicioHorario3"
+         	android:layout_marginLeft="3dp"
+         	android:text=" : 12:00:00"
+         	style="@style/linhaItemLista2"
+         />
+         
+	</GridLayout>
+     
+</br.com.digicom.layout.ItemLista>

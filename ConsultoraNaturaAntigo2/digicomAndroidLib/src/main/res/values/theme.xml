@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the theme applied to the application or activity -->
+    <style name="DCTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/DCActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="DCActionBar" parent="@android:style/Widget.ActionBar.TabView">
+        <item name="android:background">@color/dcPalette5</item>
+    </style>
+</resources>

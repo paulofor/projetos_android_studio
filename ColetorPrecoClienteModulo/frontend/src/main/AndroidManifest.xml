@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.lojadigicom.coletorprecocliente">
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name=".app.VitrineProdutoEscolhaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.VitrineProdutoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.VitrineProduto2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.NaturezaProdutoDetalheActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.OportunidadeDiaDetalheActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.NaturezaProdutoDetalheImagemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.ListaEsperaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.ListaMonitoramentoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.ListaEsperaDetalheActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.ListaMonitoramentoDetalheActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".app.GraficoPrecoActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".app.AdmAssinaturaClienteActivity" />
+        <activity android:name=".faturamento.BillingExemploActivity" />
+        <activity android:name=".app.VitrineProdutoEscolhaNovo"></activity>
+    </application>
+
+</manifest>

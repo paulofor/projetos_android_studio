@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcademiaTreino_1_5.iml" filepath="$PROJECT_DIR$/AcademiaTreino_1_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academiaTreino_1_5/academiaTreino_1_5.iml" filepath="$PROJECT_DIR$/academiaTreino_1_5/academiaTreino_1_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digicomAndroidLib/digicomAndroidLib.iml" filepath="$PROJECT_DIR$/digicomAndroidLib/digicomAndroidLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digicomFtpLib/digicomFtpLib.iml" filepath="$PROJECT_DIR$/digicomFtpLib/digicomFtpLib.iml" />
+    </modules>
+  </component>
+</project>

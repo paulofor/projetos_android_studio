@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:context="br.com.lojadigicom.coletorprecocliente.app.ContadorInteresseProdutoFragment">
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:id="@+id/lytQtdeEspera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/round_layout"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="3"
+            android:gravity="right"
+            android:padding="4dp"
+            android:text="@string/label_esperando"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtContaEspera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="4dp"
+            android:text="100"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:id="@+id/lytQtdeMonitorado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/round_layout"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp"
+            android:layout_weight="3"
+            android:gravity="right"
+            android:padding="4dp"
+            android:text="@string/label_monitorando"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtContaMonitora"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="4dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:text="10" />
+    </LinearLayout>
+
+</LinearLayout>

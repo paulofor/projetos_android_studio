@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+	android:targetSdkVersion
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:15-44
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:6:5-47
+		INJECTED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml
+application
+ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:8:5-13:19
+	android:label
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomFtpLib/src/main/AndroidManifest.xml:12:9-40

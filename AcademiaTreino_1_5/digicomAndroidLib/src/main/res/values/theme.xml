@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the theme applied to the application or activity -->
+    <style name="DCTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/DCActionBar</item>
+        <!-- <item name="android:buttonStyle">@android:style/Widget.Material.Button</item> -->
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="DCActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/dcPalette5</item>
+        <item name="android:backgroundStacked">@color/dcPalette5</item>
+    </style>
+    
+
+</resources>

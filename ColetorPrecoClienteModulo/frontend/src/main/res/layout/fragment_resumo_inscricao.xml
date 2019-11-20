@@ -1,0 +1,94 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="br.com.lojadigicom.coletorprecocliente.app.ResumoInscricao"
+    android:background="#B0BEC5"
+    android:contextClickable="true">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:paddingBottom="@dimen/abc_action_bar_content_inset_material"
+        android:paddingTop="@dimen/abc_action_bar_content_inset_material"
+        android:paddingLeft="@dimen/resumo_detail_horizontal_padding"
+        android:paddingRight="@dimen/resumo_detail_horizontal_padding"
+        android:paddingStart="@dimen/resumo_detail_horizontal_padding"
+        android:paddingEnd="@dimen/resumo_detail_horizontal_padding"
+
+
+        app:columnCount="2"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <TextView
+            android:text="Categorias Inscritas"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            app:layout_columnWeight="1"
+            app:layout_gravity="fill"
+            app:layout_rowWeight="1"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/txtTotalInscricao"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:text="18"
+            app:layout_gravity="fill"
+            android:textColor="#000000"
+        />
+
+        <TextView
+            android:text="Gratuitas"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            app:layout_columnWeight="1"
+            app:layout_gravity="fill"
+            app:layout_rowWeight="1"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/txtTotalGratuita"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:text="18"
+            app:layout_gravity="fill"
+            android:textColor="#000000"
+        />
+
+
+        <TextView
+            android:text="Pagas"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            app:layout_columnWeight="1"
+            app:layout_gravity="fill"
+            app:layout_rowWeight="1"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/txtTotalPagas"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:text="0"
+            app:layout_gravity="fill"
+            android:textColor="#000000"
+        />
+    </android.support.v7.widget.GridLayout>
+
+
+</FrameLayout>

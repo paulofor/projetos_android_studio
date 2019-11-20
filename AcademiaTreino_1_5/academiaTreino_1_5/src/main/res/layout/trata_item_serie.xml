@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/spnGrupoMuscular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+    <requestFocus />
+    </Spinner>
+
+    <Spinner
+        android:id="@+id/spnExercicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spnGrupoMuscular" />
+
+    <EditText
+        android:id="@+id/txtRegulagem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/spnExercicio"
+        android:ems="10"
+        android:hint="Regulagem" />
+
+
+
+    <LinearLayout
+        android:id="@+id/lytCargaRepaticao"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lytComandos"
+        android:layout_below="@+id/txtRegulagem"
+        android:layout_margin="5dp"
+        android:orientation="vertical" >
+
+       <TextView
+        android:id="@+id/lblCargaRepeticao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Repetição e Carga" />
+        
+       <LinearLayout
+            android:id="@+id/lytLinhaDatas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/lytCabecalho"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+
+                <TextView
+                    android:id="@+id/txtTitulo"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                 />                
+                
+                <TextView
+                    android:id="@+id/txtData01"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                 />
+            </LinearLayout>
+
+        </LinearLayout>
+        
+        
+        <LinearLayout
+            android:id="@+id/lytLinha1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/lytExec1Repeticao"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/txtRepeticao1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:hint="Repetição"
+                    android:nextFocusDown="@+id/txtCarga1"
+                    android:layout_weight="1" />
+
+                <EditText
+                    android:id="@+id/txtCarga1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Carga"
+                    android:inputType="numberDecimal"
+                    android:nextFocusDown="@+id/txtRepeticao2" />
+                
+                <TextView
+                    android:id="@+id/txtExecucaoAnterior11"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+        
+         <LinearLayout
+            android:id="@+id/lytLinha2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/lytExec2Repeticao"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/txtRepeticao2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:hint="Repetição"
+                    android:nextFocusDown="@+id/txtCarga2"
+                    android:layout_weight="1" />
+
+                <EditText
+                    android:id="@+id/txtCarga2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Carga"
+                    android:inputType="numberDecimal"
+                    android:nextFocusDown="@+id/txtRepeticao3" />
+                
+                <TextView
+                    android:id="@+id/txtExecucaoAnterior12"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                     />
+            </LinearLayout>
+        </LinearLayout>
+
+         <LinearLayout
+             android:id="@+id/lytLinha3"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical" >
+
+             <LinearLayout
+                 android:id="@+id/lytExec3Repeticao"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:nextFocusDown="@+id/txtCarga3"
+                 android:orientation="horizontal" >
+
+                 <EditText
+                     android:id="@+id/txtRepeticao3"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:hint="Repetição"
+                     android:nextFocusDown="@+id/txtCarga3"
+                     android:inputType="number" >
+
+                     
+                 </EditText>
+
+                 <EditText
+                     android:id="@+id/txtCarga3"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_weight="1"
+                     android:hint="Carga"
+                     android:nextFocusDown="@+id/btnOkTrataItemSerie"
+                     android:inputType="numberDecimal" />
+
+                 <TextView
+                     android:id="@+id/txtExecucaoAnterior13"
+                     android:layout_width="0dp"
+                     android:layout_height="wrap_content"
+                     android:layout_gravity="center"
+                     android:layout_weight="1" />
+             </LinearLayout>
+         </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lytComandos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnCancelaTrataItemSerie"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancelar" />
+
+        <Button
+            android:id="@+id/btnOkTrataItemSerie"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ok" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtRegulagemAnterior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtRegulagem"
+        android:layout_alignBottom="@+id/txtRegulagem"
+        android:layout_alignParentRight="true"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

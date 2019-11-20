@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="treinoacademia.app"
+    android:versionCode="3"
+    android:versionName="15">
+
+    <uses-sdk android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/fitness_icone"
+        android:label="@string/app_name"
+        android:theme="@style/DCTheme"
+        tools:replace="android:theme,android:icon"
+        >
+        <activity
+            android:name=".TreinoAcademiaPrincipalActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="treinoacademia.activity.base.SerieTreinoListaEdicaoActivity"
+            android:label="@string/title_activity_serie_treino_lista_edicao" >
+        </activity>
+        <activity
+            android:name="treinoacademia.activity.base.SerieTreinoEditaActivity"
+            android:label="@string/title_activity_serie_treindo_edita" >
+        </activity>
+        <activity
+            android:name="treinoacademia.activity.base.ItemTreinoEditaActivity"
+            android:label="@string/title_activity_item_treino_edita" >
+        </activity>
+        <service android:name=".SincronizadorService"/>
+        <receiver android:name=".SincronizadorService$AlarmReceiver" android:enabled="true"/>
+        
+    </application>
+
+</manifest>

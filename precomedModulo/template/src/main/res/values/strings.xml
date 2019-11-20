@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">PrecoMed</string>
+
+    <string name="sync_account_type">lojadigicom.precomed</string>
+    <string name="content_authority">br.com.lojadigicom.precomed</string>
+</resources>

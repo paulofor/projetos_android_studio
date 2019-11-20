@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_bg_action_bar.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/bg_action_bar.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_ic_note_add_black_24dp.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_carga_planejada.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_carga_planejada.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_execucao_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_execucao_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_card_state_pressed.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/card_state_pressed.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_dia_treino_historico_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_dia_treino_historico_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_dia_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_dia_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_exercicio_execucao.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_exercicio_execucao.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_nova.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_nova.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_carga_planejada.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_carga_planejada.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_ic_check_circle_black_24dp.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/ic_check_circle_black_24dp.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_dia_treino_historico_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_dia_treino_historico_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_dispositivo_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_padrao.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/lista_uso_padrao.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_drawer_shadow.9.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_execucao_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_execucao_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_serie_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_uso_serie_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_diatreino_lista_uso_historico.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/diatreino_lista_uso_historico.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_view_diatreino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/view_diatreino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_serie_view.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_serie_view.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_navigation_accept.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/navigation_accept.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_serie_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_serie_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_main_frame.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/main_frame.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/main.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_main_dl_frame.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/main_dl_frame.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_carga_planejada.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_carga_planejada.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_card_background_selector.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/card_background_selector.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_itemedicao_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/itemedicao_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_execucao_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_execucao_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_dia_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_dia_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_itemuso_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/itemuso_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/menu_navigator.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/menu/navigator.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_inicio_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/inicio_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_execucao_item_serie_historico.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_execucao_item_serie_historico.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_dia_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_dia_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_execucao_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_uso_execucao_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_botao_acao.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/botao_acao.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/animator_fragment_slide_right_exit.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/animator/fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/animator_fragment_slide_right_enter.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/animator/fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_ic_drawer.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/ic_drawer.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_dispositivo_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_dispositivo_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_uso_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_serie_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_serie_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_serie_treino.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_serie_treino.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_activity_navigator.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/activity_navigator.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_item_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/item_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_fitness_icone.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/fitness_icone.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_main_menu.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_quadro_tabs.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/quadro_tabs.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_dia_treino_page.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/dia_treino_page.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/animator_fragment_slide_left_exit.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/animator/fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_drawer_list_item.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb67e146e5fa83ddbeab7f34299b3ea8/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/animator_fragment_slide_left_enter.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/animator/fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_exercicio_fora_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/exercicio_fora_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_trata_dispositivo_usuario.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/trata_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_item_serie.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_uso_item_serie.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/usuario/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8954f60e0903bb48c977de108d63624b/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_activity_fullscreen.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable_card_background.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/drawable/card_background.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_uso_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_uso_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/layout_lista_exercicio.xml.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/src/main/res/layout/lista_exercicio.xml"
+    },
+    {
+        "merged": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/academiaTreino_1_5/build/intermediates/res/merged/debug/drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "/home/usuario/ProjetosAndroidStudio/AcademiaTreino_1_5/digicomAndroidLib/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher.png"
+    }
+]

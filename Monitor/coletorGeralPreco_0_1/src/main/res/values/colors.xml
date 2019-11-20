@@ -1,0 +1,23 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="fundo_cabecalho_inicio">#7f24599F</color>
+    <color name="fundo_cabecalho_final">#cf24599F</color>
+    
+    
+    
+    <color name="palette1">#69D2E7</color>
+    <color name="palette2">#A7DBD8</color>
+    <color name="palette3">#E0E4CC</color>
+    <color name="palette4">#F38630</color>
+    <color name="palette5">#FA6900</color>
+    
+    <!--
+    69D2E7
+    A7DBD8
+    E0E4CC
+    F38630
+    FA6900 
+     -->
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:background="@color/palette2"
+
+     android:paddingLeft="0dp"
+     android:paddingRight="0dp" >
+
+     <TextView
+         android:id="@+id/txtNomeClienteContato"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@color/palette4"
+         android:text="Contatos"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <ListView
+         android:id="@id/android:list"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/btnCriaContatoCliente"
+         android:layout_below="@+id/txtNomeClienteContato" />
+
+     <Button
+         android:id="@+id/btnCriaContatoCliente"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         android:layout_alignParentLeft="true"
+         android:text="Novo Contato" />
+
+ </RelativeLayout>

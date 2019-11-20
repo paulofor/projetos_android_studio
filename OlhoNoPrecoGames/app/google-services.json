@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "351956114385",
+    "firebase_url": "https://olhoprecogames.firebaseio.com",
+    "project_id": "olhoprecogames",
+    "storage_bucket": "olhoprecogames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351956114385:android:cb3477def40a18dc",
+        "android_client_info": {
+          "package_name": "br.com.lojadigicom.olhonoprecogames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351956114385-50pd1qk08efi5ojkerojdobmlabp1nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1WQZ8BL7t3PRz8zuK3nRzWScNZEOVXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

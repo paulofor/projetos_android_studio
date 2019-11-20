@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background_selector.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\drawable\\card_background_selector.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\drawable\\card_state_pressed.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\drawable\\card_state_pressed.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.png",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\drawable\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\drawable\\botao_acao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\drawable\\botao_acao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\drawable\\card_background.xml"
+    }
+]

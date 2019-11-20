@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<br.com.digicom.layout.ItemListaFrame xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+        <TextView
+            android:id="@+id/txtPrincipal"
+            android:text="Principal"
+        	style="@style/linhaItemLista1"
+           />
+        <TextView
+            android:id="@+id/txtSubtitulo"
+            android:text="Subtitulo"
+            style="@style/linhaItemLista2"
+            />
+        <TextView
+            android:id="@+id/txtApoio"
+            android:text="Apoio"
+            style="@style/linhaItemLista2"
+            />
+</br.com.digicom.layout.ItemListaFrame>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "673601002659",
+    "firebase_url": "https://olhoprecosapatos-cd1af.firebaseio.com",
+    "project_id": "olhoprecosapatos-cd1af",
+    "storage_bucket": "olhoprecosapatos-cd1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673601002659:android:82618a6d96c0452d",
+        "android_client_info": {
+          "package_name": "br.com.lojadigicom.olhonoprecosapato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673601002659-h6ouitlfvab7koeighv5ld04mgmbd1ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2rFjJGJhCz-pGEadUpILBUwzfHoWpkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

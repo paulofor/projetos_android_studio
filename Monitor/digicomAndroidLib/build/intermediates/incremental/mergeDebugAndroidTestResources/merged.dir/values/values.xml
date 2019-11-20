@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_overlay">#66000000</color>
+    <color name="dcPalette1">#69D2E7</color>
+    <color name="dcPalette2">#A7DBD8</color>
+    <color name="dcPalette3">#E0E4CC</color>
+    <color name="dcPalette4">#F38630</color>
+    <color name="dcPalette5">#FA6900</color>
+    <color name="fundo_cabecalho_final">#cf24599F</color>
+    <color name="fundo_cabecalho_inicio">#7f24599F</color>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">DigicomAndroidLib</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="drawer_close">Fecha navigation drawer</string>
+    <string name="drawer_open">Abre navigation drawer</string>
+    <string name="hello">Hello World!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DCActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/dcPalette5</item>
+        <item name="android:backgroundStacked">@color/dcPalette5</item>
+    </style>
+    <style name="DCTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/DCActionBar</item>
+        <!-- <item name="android:buttonStyle">@android:style/Widget.Material.Button</item> -->
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\menu\\navigator.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\exploded-aar\\ConsultoraNaturaAntigo2\\digicomAndroidLib\\unspecified\\res\\menu\\navigator.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\menu\\navigator.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\exploded-aar\\ConsultoraNaturaAntigo2\\digicomAndroidLib\\unspecified\\res\\menu\\navigator.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\src\\main\\res\\menu\\main.xml"
+    }
+]

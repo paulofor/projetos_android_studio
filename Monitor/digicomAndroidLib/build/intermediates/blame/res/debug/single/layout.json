@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\search_view_action_bar.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\search_view_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\item_lista_cartao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\item_lista_cartao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\lista_uso_cartao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\lista_uso_cartao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\main_dl_frame.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\main_dl_frame.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\lista_uso_padrao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\lista_uso_padrao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\componente_cronometro.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\componente_cronometro.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\main_frame.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\main_frame.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\pesquisa_lista.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\pesquisa_lista.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\quadro_tabs.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\quadro_tabs.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\layout\\main.xml"
+    }
+]

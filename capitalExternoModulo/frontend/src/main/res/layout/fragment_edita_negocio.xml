@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="lojadigicom.com.br.capitalexternomodulo.br.com.lojadigicom.capitalexterno.tela.EditaNegocioFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textNoSuggestions"
+        android:ems="10"
+        android:id="@+id/txtNomeNegocio"
+        android:hint="Nome do Negocio"
+        tools:text="Loja de Roupas Virtual" />
+
+    <Button
+        android:text="@android:string/ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnOk" />
+
+</LinearLayout>

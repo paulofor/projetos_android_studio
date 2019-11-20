@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Inicio de AppBar -->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_detalhe_produto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            tools:text="Smartphone Positivo Selfie S455 8GB Dual Chip 3G - Câm. 5MP"
+            android:transitionName="trTxtNomeProduto"
+            android:id="@+id/txtNomeProduto"
+            />
+
+    </android.support.v7.widget.Toolbar>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ftgContadorInteresse"
+        android:name="br.com.lojadigicom.coletorprecocliente.app.ContadorInteresseProdutoFragment"
+        tools:layout="@layout/fragment_contador_interesse_produto" />
+
+    <!-- Inicio Tela Normal -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="br.com.lojadigicom.coletorprecocliente.app.ListaMonitoramentoDetalheActivity">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/lytComando"
+            android:id="@+id/lytImagem"
+            >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imgProduto"
+                android:transitionName="trImgProduto"
+                tools:src="@drawable/aparelho"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_above="@+id/txtPrecoProduto"
+                android:layout_below="@+id/rtbRecomendacao" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                tools:text="R$ 988,90"
+                android:id="@+id/txtPrecoProduto"
+                android:transitionName="trTxtPrecoProduto"
+                android:textColor="@color/textoPreco"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtNomeLoja"
+                android:transitionName="trTxtNomeLoja"
+                tools:text="Dafiti"
+                android:layout_below="@+id/imgProduto"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rtbRecomendacao"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btnFacebook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:src="@drawable/ic_facebook_box_black_48dp"
+                    />
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btnGrafico"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:src="@drawable/ic_chart_line_black_24dp"
+                    />
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btnLoja"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:src="@drawable/ic_arrow_forward_black_24dp"
+                    />
+
+            </LinearLayout>
+
+            <TextView
+                android:text="@string/label_item_novo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textoNovo"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:transitionName="trTxtNovo"
+                android:id="@+id/txtNovo" />
+
+            <TextView
+                android:text="Mínimo: R$ 14,90"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtDescriacaoRecomendacao"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:id="@+id/txtDescriacaoRecomendacao2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtDescriacaoRecomendacao"
+                android:text="Média: R$ 18,50"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <RatingBar
+                android:isIndicator="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rtbRecomendacao"
+                android:transitionName="trRtbRecomendacao"
+                android:numStars="3"
+                android:stepSize="1"
+                style="@android:style/Widget.DeviceDefault.RatingBar"
+                android:rating="2"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/lytComando">
+
+            <Switch
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/label_espera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnEspera"
+                android:layout_weight="1"
+                android:padding="8dp" />
+
+            <Switch
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/label_monitora"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnMonitora"
+                android:layout_weight="1"
+                android:padding="8dp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>
+

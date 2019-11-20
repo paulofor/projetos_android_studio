@@ -1,0 +1,206 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AcademiaTreino_1_5:
+* AndroidManifestInicial.xml
+* bak\
+* bak\item_serie_view.xml
+* ic_launcher-web.png
+* proguard-project.txt
+From DigicomAndroidLib:
+* GeraJar.jardesc
+* build.gradle
+* digicom_android_lib_1.1.jar
+* digicom_android_lib_1.1\
+* digicom_android_lib_1.1\AndroidManifest.xml
+* digicom_android_lib_1.1\META-INF\
+* digicom_android_lib_1.1\META-INF\MANIFEST.MF
+* digicom_android_lib_1.1\br\
+* digicom_android_lib_1.1\br\com\
+* digicom_android_lib_1.1\br\com\digicom\
+* digicom_android_lib_1.1\br\com\digicom\ArrayAdapterDigicom.class
+* digicom_android_lib_1.1\br\com\digicom\Constants.class
+* digicom_android_lib_1.1\br\com\digicom\DigicomException.class
+* digicom_android_lib_1.1\br\com\digicom\activity\
+* digicom_android_lib_1.1\br\com\digicom\activity\BaseFragmentActivity.class
+* digicom_android_lib_1.1\br\com\digicom\activity\BaseListActivity.class
+* digicom_android_lib_1.1\br\com\digicom\activity\DigicomContexto.class
+* digicom_android_lib_1.1\br\com\digicom\adapter\
+* digicom_android_lib_1.1\br\com\digicom\adapter\TabAdapter.class
+* digicom_android_lib_1.1\br\com\digicom\dao\
+* digicom_android_lib_1.1\br\com\digicom\dao\DBHelperBase.class
+* digicom_android_lib_1.1\br\com\digicom\dao\DaoException.class
+* digicom_android_lib_1.1\br\com\digicom\dao\DaoItemRetorno.class
+* digicom_android_lib_1.1\br\com\digicom\dao\DataSource.class
+* digicom_android_lib_1.1\br\com\digicom\dao\MontadorDaoBase.class
+* digicom_android_lib_1.1\br\com\digicom\dao\MontadorDaoComposite.class
+* digicom_android_lib_1.1\br\com\digicom\dao\MontadorDaoI.class
+* digicom_android_lib_1.1\br\com\digicom\gesto\
+* digicom_android_lib_1.1\br\com\digicom\gesto\GestureListener.class
+* digicom_android_lib_1.1\br\com\digicom\layout\
+* digicom_android_lib_1.1\br\com\digicom\layout\DatePickerUtil.class
+* digicom_android_lib_1.1\br\com\digicom\layout\ItemLista.class
+* digicom_android_lib_1.1\br\com\digicom\layout\ResourceObj.class
+* digicom_android_lib_1.1\br\com\digicom\layout\UtilLayout.class
+* digicom_android_lib_1.1\br\com\digicom\log\
+* digicom_android_lib_1.1\br\com\digicom\log\DCLog.class
+* digicom_android_lib_1.1\br\com\digicom\modelo\
+* digicom_android_lib_1.1\br\com\digicom\modelo\DCIObjetoDominio.class
+* digicom_android_lib_1.1\br\com\digicom\modelo\DisplayI.class
+* digicom_android_lib_1.1\br\com\digicom\modelo\ObjetoDisplay.class
+* digicom_android_lib_1.1\br\com\digicom\modelo\ObjetoSinc.class
+* digicom_android_lib_1.1\br\com\digicom\multimidia\
+* digicom_android_lib_1.1\br\com\digicom\multimidia\AudioRecurso.class
+* digicom_android_lib_1.1\br\com\digicom\multimidia\DigicomAudioPlayer.class
+* digicom_android_lib_1.1\br\com\digicom\multimidia\DigicomMediaPlayer.class
+* digicom_android_lib_1.1\br\com\digicom\network\
+* digicom_android_lib_1.1\br\com\digicom\network\Downloader.class
+* digicom_android_lib_1.1\br\com\digicom\network\HTTPRequestHelper$1.class
+* digicom_android_lib_1.1\br\com\digicom\network\HTTPRequestHelper$2.class
+* digicom_android_lib_1.1\br\com\digicom\network\HTTPRequestHelper.class
+* digicom_android_lib_1.1\br\com\digicom\network\IDownloaderFinalizacao.class
+* digicom_android_lib_1.1\br\com\digicom\network\WifiListenerReceiver.class
+* digicom_android_lib_1.1\br\com\digicom\network\WifiTest.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseDialogFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseListFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseMenuFragment$1.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseMenuFragment$OnButtonClick.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\BaseMenuFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DatePickerFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DatePickerListener.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DialogListFragment$1.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DialogListFragment$2.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DialogListFragment$3.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DialogListFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\DialogListListener.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\GerenciadorFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\IFragment.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\IFragmentEdicao.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\IQuadroLista.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\IQuadroListaEdicao.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\NavegadorTab.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\QuadroException.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\QuadroTabs$1.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\QuadroTabs.class
+* digicom_android_lib_1.1\br\com\digicom\quadro\ResultadoValidacao.class
+* digicom_android_lib_1.1\br\com\digicom\servico\
+* digicom_android_lib_1.1\br\com\digicom\servico\DataSourceRemotoI.class
+* digicom_android_lib_1.1\br\com\digicom\servico\ServicoApresentacao.class
+* digicom_android_lib_1.1\br\com\digicom\servico\ServicoLocal.class
+* digicom_android_lib_1.1\br\com\digicom\servico\ServicoRemoto.class
+* digicom_android_lib_1.1\br\com\digicom\servico\WifiServicoI.class
+* digicom_android_lib_1.1\br\com\digicom\so\
+* digicom_android_lib_1.1\br\com\digicom\so\Dispositivo.class
+* digicom_android_lib_1.1\br\com\digicom\storage\
+* digicom_android_lib_1.1\br\com\digicom\storage\StorageUtil.class
+* digicom_android_lib_1.1\br\com\digicom\telefonia\
+* digicom_android_lib_1.1\br\com\digicom\telefonia\Telefone.class
+* digicom_android_lib_1.1\br\com\digicom\usuario\
+* digicom_android_lib_1.1\br\com\digicom\usuario\UsuarioServiceI.class
+* digicom_android_lib_1.1\br\com\digicom\util\
+* digicom_android_lib_1.1\br\com\digicom\util\ConversorJson.class
+* digicom_android_lib_1.1\br\com\digicom\util\ConversorSqlite.class
+* digicom_android_lib_1.1\br\com\digicom\util\ThreadImagem.class
+* digicom_android_lib_1.1\br\com\digicom\util\UtilDatas.class
+* digicom_android_lib_1.1\br\com\digicom\util\UtilImagem.class
+* digicom_android_lib_1.1\br\com\digicom\video\
+* digicom_android_lib_1.1\br\com\digicom\video\DigicomVideoView$DigicomVideoListener.class
+* digicom_android_lib_1.1\br\com\digicom\video\DigicomVideoView.class
+* digicom_android_lib_1.1\br\com\digicom\widget\
+* digicom_android_lib_1.1\br\com\digicom\widget\DCBaseAdapter.class
+* digicom_android_lib_1.1\br\com\digicom\widget\DCSpinner.class
+* digicom_android_lib_1.1\br\com\digicom\widget\util\
+* digicom_android_lib_1.1\br\com\digicom\widget\util\Mask$1.class
+* digicom_android_lib_1.1\br\com\digicom\widget\util\Mask.class
+* digicom_android_lib_1.1\br\com\digicom\widget\util\SpinnerUtil.class
+* digicom_android_lib_1.1\res\
+* digicom_android_lib_1.1\res\drawable-hdpi\
+* digicom_android_lib_1.1\res\drawable-hdpi\ic_launcher.png
+* digicom_android_lib_1.1\res\drawable-ldpi\
+* digicom_android_lib_1.1\res\drawable-ldpi\ic_launcher.png
+* digicom_android_lib_1.1\res\drawable-mdpi\
+* digicom_android_lib_1.1\res\drawable-mdpi\ic_launcher.png
+* digicom_android_lib_1.1\res\layout\
+* digicom_android_lib_1.1\res\layout\lista_uso_padrao.xml
+* digicom_android_lib_1.1\res\layout\main.xml
+* digicom_android_lib_1.1\res\layout\main_frame.xml
+* digicom_android_lib_1.1\res\layout\quadro_tabs.xml
+* digicom_android_lib_1.1\res\values\
+* digicom_android_lib_1.1\res\values\strings.xml
+* docs\
+* docs\CriaTelaInterfaceObjetoLista
+* docs\CriarAplicacao.txt
+* docs\CriarQuadroLista.txt
+* docs\CriarSincronizacao.txt
+* docs\CriarTelaLista.txt
+* proguard.cfg
+From DigicomFtpLib:
+* build.gradle
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In DigicomFtpLib:
+* AndroidManifest.xml => digicomFtpLib\src\main\AndroidManifest.xml
+* assets\ => digicomFtpLib\src\main\assets
+* res\ => digicomFtpLib\src\main\res\
+* src\ => digicomFtpLib\src\main\java\
+In DigicomAndroidLib:
+* AndroidManifest.xml => digicomAndroidLib\src\main\AndroidManifest.xml
+* assets\ => digicomAndroidLib\src\main\assets
+* res\ => digicomAndroidLib\src\main\res\
+* src\ => digicomAndroidLib\src\main\java\
+In AcademiaTreino_1_5:
+* AndroidManifest.xml => academiaTreino_1_5\src\main\AndroidManifest.xml
+* assets\ => academiaTreino_1_5\src\main\assets
+* lint.xml => academiaTreino_1_5\lint.xml
+* res\ => academiaTreino_1_5\src\main\res\
+* src\ => academiaTreino_1_5\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

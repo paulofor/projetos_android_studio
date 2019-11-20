@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">TreinoAcademia</string>
+
+    <string name="sync_account_type">lojadigicom.treinoacademia</string>
+    <string name="content_authority">br.com.lojadigicom.treinoacademia</string>
+</resources>

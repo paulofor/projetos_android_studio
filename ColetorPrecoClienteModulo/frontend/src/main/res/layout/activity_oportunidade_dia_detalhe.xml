@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:fitsSystemWindows="true"
+tools:context=".app.OportunidadeDiaDetalheActivity">
+
+<android.support.design.widget.AppBarLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:theme="@style/AppTheme.AppBarOverlay">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_oportunidade_dia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:popupTheme="@style/AppTheme.PopupOverlay" >
+        <TextView
+            android:id="@+id/toolbar_oportunidade_dia_texto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:transitionName="trNomeProduto"
+            android:gravity="top"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:background="@color/colorPrimary"
+            android:maxLines="7"
+            android:text="opsun lobum costum blader maxim glob"/>
+
+    </android.support.v7.widget.Toolbar>
+
+
+</android.support.design.widget.AppBarLayout>
+
+    <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lytImagem">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imgProduto"
+                android:visibility="visible"
+                android:transitionName="trImagemProduto"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="left|top"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|top"
+                android:layout_marginRight="0dp"
+                android:id="@+id/lytBotoes"
+                android:visibility="invisible"
+                android:orientation="vertical">
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/btnFabFacebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/ic_share_black_24dp"
+                />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/btnFabLoja"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:src="@drawable/ic_arrow_forward_black_24dp"
+                />
+            </LinearLayout>
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="R$ 1.285,00"
+            android:id="@+id/txtPrecoProduto"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="4sp"
+            android:layout_marginBottom="4sp"
+            android:transitionName="trPrecoAtual"
+            android:padding="8dp"
+            android:textColor="#ffffff"
+            android:background="@color/fundoPreco"/>
+
+
+
+    </FrameLayout>
+
+</android.support.design.widget.CoordinatorLayout>

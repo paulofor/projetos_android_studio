@@ -1,0 +1,37 @@
+//noinspection GradleCompatible
+apply plugin: 'com.android.library'
+
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url "https://maven.google.com"
+        }
+    }
+}
+
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    compile project(':digicomFtpLib')
+    compile 'com.android.support:gridlayout-v7:26.1.0'
+    compile 'com.android.support:support-v4:26.1.0'
+}

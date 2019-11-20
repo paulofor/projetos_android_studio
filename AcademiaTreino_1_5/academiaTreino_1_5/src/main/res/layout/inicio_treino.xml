@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/btnInicioTreino"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/botao_acao"
+        android:text="Iniciar Treino" />
+
+    <br.com.digicom.layout.basica.DCLinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="beforeDescendants"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:orientation="vertical"
+    android:layout_above="@+id/btnInicioTreino" >
+
+	<br.com.digicom.layout.basica.DCLinearLayout
+	    android:id="@+id/linearLayout1"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@drawable/card_background_selector"
+	    android:descendantFocusability="afterDescendants"
+	    android:orientation="vertical"
+	    android:paddingBottom="15dp"
+	    android:paddingLeft="15dp"
+	    android:paddingRight="15dp"
+	    android:paddingTop="15dp" >
+
+	    <TextView
+            android:id="@+id/txtLinha1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Linha1"
+            android:fontFamily="sans-serif-condensed"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtLinha2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Linha2"
+            android:fontFamily="sans-serif-condensed"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtLinha3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Linha3"
+            android:fontFamily="sans-serif-condensed"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+	    
+	</br.com.digicom.layout.basica.DCLinearLayout>
+	</br.com.digicom.layout.basica.DCLinearLayout>
+
+</RelativeLayout>

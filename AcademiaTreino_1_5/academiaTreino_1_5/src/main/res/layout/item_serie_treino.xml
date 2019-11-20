@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <br.com.digicom.layout.ItemListaFrame xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     >
+
+    <TextView
+         android:id="@+id/txtQtdeExecucao"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Execução: 20 vezes"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+         />
+    <TextView
+         android:id="@+id/txtDataPeriodo"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="De: dd/mm/aaaa até dd/mm/aaaa"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+          />
+    <TextView
+         android:id="@+id/txtQtdeExercicio"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="5 Exercícios"
+         android:textAppearance="?android:attr/textAppearanceSmall"
+          />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+    </LinearLayout>
+     
+</br.com.digicom.layout.ItemListaFrame>

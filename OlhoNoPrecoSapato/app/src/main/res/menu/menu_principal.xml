@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuEspera"
+
+        app:showAsAction="never"
+        android:title="@string/label_esperando">
+    </item>
+    <item
+        android:id="@+id/menuMonitora"
+
+        app:showAsAction="never"
+        android:title="@string/label_monitorando">
+    </item>
+
+    <item
+        android:id="@+id/menuAssinatura"
+
+        app:showAsAction="never"
+        android:title="Assinatura">
+    </item>
+</menu>

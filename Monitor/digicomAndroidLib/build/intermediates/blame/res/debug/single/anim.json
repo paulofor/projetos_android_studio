@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slide_out_right.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\anim_slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slide_out_left.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\anim_slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slide_in_left.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\anim_slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\build\\intermediates\\res\\merged\\debug\\anim\\anim_slide_in_right.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\digicomAndroidLib\\src\\main\\res\\anim\\anim_slide_in_right.xml"
+    }
+]

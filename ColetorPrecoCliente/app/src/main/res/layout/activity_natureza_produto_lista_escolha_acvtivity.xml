@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".app.NaturezaProdutoListaEscolhaAcvtivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_escolha_natureza"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+            <TextView
+                android:id="@+id/toolbar_oportunidade_dia_texto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:gravity="top"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:background="@color/colorPrimary"
+                android:maxLines="7"
+                android:text="Categorias de Produtos"/>
+
+        </android.support.v7.widget.Toolbar>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/natureza_produto_list_escolha"
+        android:name="br.com.lojadigicom.coletorprecocliente.app.NaturezaProdutoListEscolhaFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:layout="@layout/lista_padrao" />
+    <fragment
+        android:id="@+id/resumo_inscricao"
+        android:name="br.com.lojadigicom.coletorprecocliente.app.ResumoInscricao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtAvisoAlteracao"
+        android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+
+        android:text="As novas configurações serão válidas na próxima atualização"
+        android:textColor="@android:color/white"
+        android:background="#e53935" />
+</LinearLayout>

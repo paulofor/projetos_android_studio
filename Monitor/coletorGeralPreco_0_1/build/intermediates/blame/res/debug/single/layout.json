@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_dispositivo_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_lista_cartao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\item_lista_cartao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_palavra.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_palavra.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_categoria_loja.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_categoria_loja.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\main_dl_frame.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\main_dl_frame.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_categoria_loja_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_categoria_loja_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\quadro_tabs.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\quadro_tabs.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_uso_cartao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\lista_uso_cartao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_oportunidade_dia.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_oportunidade_dia.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_palavra_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_palavra_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_oportunidade_dia.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_oportunidade_dia.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_usuario.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\search_view_action_bar.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\search_view_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_loja_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_loja_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_usuario_pesquisa.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_usuario_pesquisa.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_natureza_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_natureza_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_dispositivo_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_preco_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_preco_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_usuario_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_usuario_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_modelo_produto_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_modelo_produto_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_loja_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_loja_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_modelo_produto_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_modelo_produto_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_usuario_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_usuario_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_usuario.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_dispositivo_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_dispositivo_usuario.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_marca.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_marca.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\main_frame.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\main_frame.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_usuario_pesquisa.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_usuario_pesquisa.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_preco_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_preco_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_marca.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_marca.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_modelo_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_modelo_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_palavra.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_palavra.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_preco_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_preco_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_categoria_loja.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_categoria_loja.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_palavra_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_palavra_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_loja_virtual.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_loja_virtual.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_natureza_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_natureza_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_categoria_loja_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_categoria_loja_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_loja_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_loja_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_oportunidade_dia.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_oportunidade_dia.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_palavra_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_palavra_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_categoria_loja.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_categoria_loja.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_usuario_pesquisa.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_usuario_pesquisa.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_modelo_produto_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_modelo_produto_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_palavra.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_palavra.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_usuario_natureza.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_usuario_natureza.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_marca.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_marca.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_categoria_loja_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_categoria_loja_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_natureza_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_natureza_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_modelo_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_modelo_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\trata_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\trata_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_uso_padrao.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\lista_uso_padrao.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_modelo_produto.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_modelo_produto.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_loja_virtual.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_loja_virtual.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\item_loja_virtual.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\item_loja_virtual.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\componente_cronometro.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\componente_cronometro.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\pesquisa_lista.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\exploded-aar\\Monitor\\digicomAndroidLib\\unspecified\\res\\layout\\pesquisa_lista.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\build\\intermediates\\res\\merged\\debug\\layout\\lista_usuario.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\Monitor\\coletorGeralPreco_0_1\\src\\main\\res\\layout\\lista_usuario.xml"
+    }
+]

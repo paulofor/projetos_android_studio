@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <LinearLayout
+        android:id="@+id/lytComandos"
+        style="@style/LayoutComando"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        >
+
+        <Button
+            style="@style/BotaoComando"
+            android:id="@+id/btnOutros"
+            android:layout_weight="1"
+            android:text="Outros" />
+
+        <Button
+            android:id="@+id/btnInsereItem"
+            style="@style/BotaoComando"
+            android:layout_weight="1"
+            android:text="Concluir" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/lytComandos"
+        android:layout_below="@+id/dCCronometro1"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+    <br.com.digicom.widget.DCCronometro
+        android:id="@+id/dCCronometro1"
+        style="@style/Cronometro"
+        android:layout_alignParentLeft="true"
+        android:background="@color/palette2"
+        android:textSize="40sp" />
+
+</RelativeLayout>

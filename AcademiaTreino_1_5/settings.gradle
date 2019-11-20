@@ -1,0 +1,3 @@
+include ':digicomFtpLib'
+include ':digicomAndroidLib'
+include ':academiaTreino_1_5'

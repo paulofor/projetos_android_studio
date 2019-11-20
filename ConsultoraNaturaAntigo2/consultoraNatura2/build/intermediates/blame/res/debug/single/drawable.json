@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_action_bar.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\src\\main\\res\\drawable\\bg_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.png",
+        "source": "E:\\Fontes\\ProjetosAndroidStudio\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\exploded-aar\\ConsultoraNaturaAntigo2\\digicomAndroidLib\\unspecified\\res\\drawable\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_action_bar.xml",
+        "source": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\src\\main\\res\\drawable\\bg_action_bar.xml"
+    },
+    {
+        "merged": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.png",
+        "source": "E:\\Fontes\\ProjetosAndroidAntigos\\ConsultoraNaturaAntigo2\\consultoraNatura2\\build\\intermediates\\exploded-aar\\ConsultoraNaturaAntigo2\\digicomAndroidLib\\unspecified\\res\\drawable\\ic_drawer.png"
+    }
+]

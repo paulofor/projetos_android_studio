@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <br.com.digicom.layout.ItemLista xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical">
+
+
+     <TextView
+         android:id="@+id/txtNomeExercicio"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:text="Titulo"
+         android:textSize="16sp"
+         android:textStyle="bold" />
+
+ 
+
+      <LinearLayout
+          android:id="@+id/lytExecucao"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical" >
+      </LinearLayout>
+ 
+
+
+</br.com.digicom.layout.ItemLista>

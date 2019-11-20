@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtDataVenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Venda Realizada em 25/03/2015"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <Button
+        android:id="@+id/btnOkTrataVenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Finalizar Venda" />
+
+    <TextView
+        android:id="@+id/txtValorVenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnOkTrataVenda"
+        android:layout_alignParentLeft="true"
+        android:text="Valor Total da Venda: R$ 0,00"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <LinearLayout
+        android:id="@+id/lytListaProdutoVenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txtValorVenda"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtDataVenda"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</RelativeLayout>

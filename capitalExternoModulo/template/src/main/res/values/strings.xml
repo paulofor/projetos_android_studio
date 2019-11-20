@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">CapitalExterno</string>
+
+    <string name="sync_account_type">lojadigicom.capitalexterno</string>
+    <string name="content_authority">br.com.lojadigicom.capitalexterno</string>
+</resources>

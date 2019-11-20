@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.lojadigicom.tela.OpcoesPrincipal"
+   >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="280dp"
+            app:srcCompat="@drawable/ico_filefind_32"
+            android:id="@+id/btnVitrine"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="280dp"
+            app:srcCompat="@drawable/ico_filefind_32"
+            android:id="@+id/btnListaEspera"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="280dp"
+            app:srcCompat="@drawable/ico_filefind_32"
+            android:id="@+id/btnListaMonitoramento"
+            android:layout_weight="1"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

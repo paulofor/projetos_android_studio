@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_vitrine_produto"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            >
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/principal">
+        <!-- Cartao 1 -->
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/card_view1"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="6dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                tools:context="br.com.lojadigicom.coletorprecocliente.app.VitrineProdutoActivity">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    tools:text="Smartphone Positivo Selfie S455 8GB Dual Chip 3G - Câm. 5MP"
+                    android:id="@+id/txtNomeProdutoVitrine1"
+                    />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imgProduto1"
+                    tools:src="@drawable/aparelho"
+                    android:layout_above="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:text="R$ 988,90"
+                    android:id="@+id/txtPrecoProdutoVitrine1"
+                    android:textColor="@color/textoPreco"
+                    android:layout_above="@+id/rtbInteresse1"
+                    android:layout_alignRight="@+id/btnOk1"
+                    android:layout_alignEnd="@+id/btnOk1" />
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:numStars="5"
+                    android:id="@+id/rtbInteresse1"
+                    android:layout_alignBottom="@+id/btnOk1"
+                    android:layout_alignLeft="@+id/txtDescricaoNota1"
+                    android:layout_alignStart="@+id/txtDescricaoNota1"
+                    android:layout_alignTop="@+id/btnOk1"
+                    android:stepSize="1"
+                    android:rating="5"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    tools:text="Escolha a nota"
+                    android:id="@+id/txtDescricaoNota1"
+                    android:textColor="@color/textoGosto"
+                    android:layout_above="@+id/rtbInteresse1"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    />
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btnOk1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_done_black_24dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignRight="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtNomeProdutoVitrine1"
+                    android:layout_marginBottom="16dp"
+                    app:backgroundTint="#4CAF50"/>
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Não gostei"
+                    android:textColor="@color/textoGosto"
+                    android:id="@+id/txtDescNota1_1"
+                    android:background="#ffffff"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine1"
+                    android:paddingLeft="40dp" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Razoável"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:id="@+id/txtDescNota1_2"
+                    android:background="#ffffff"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine1" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Gostei"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:background="#ffffff"
+                    android:id="@+id/txtDescNota1_3"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine1" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Gostei Muito"
+                    android:paddingLeft="40dp"
+                    android:id="@+id/txtDescNota1_4"
+                    android:background="#ffffff"
+                    android:textColor="@color/textoGosto"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine1" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Excelente"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:background="#ffffff"
+                    android:id="@+id/txtDescNota1_5"
+                    android:layout_below="@+id/txtNomeProdutoVitrine1"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine1"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine1" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <!-- Final Cartao 1 -->
+
+        <!-- Cartao 2 -->
+        <android.support.v7.widget.CardView
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/card_view2"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4dp"
+
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="6dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+
+                tools:context="br.com.lojadigicom.coletorprecocliente.app.VitrineProdutoActivity">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    tools:text="Smartphone Positivo Selfie S455 8GB Dual Chip 3G - Câm. 5MP + Selfie 8MP 4.5' Quad-Core Android 5.0"
+                    android:id="@+id/txtNomeProdutoVitrine2"
+                    />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imgProduto2"
+                    tools:src="@drawable/aparelho"
+                    android:layout_above="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/txtDescNota2_1" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:text="R$ 988,90"
+                    android:id="@+id/txtPrecoProdutoVitrine2"
+                    android:textColor="@color/textoPreco"
+                    android:layout_above="@+id/rtbInteresse2"
+                    android:layout_alignRight="@+id/btnOk2"
+                    android:layout_alignEnd="@+id/btnOk2" />
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:numStars="5"
+                    android:id="@+id/rtbInteresse2"
+                    android:stepSize="1"
+                    android:rating="5"
+                    android:layout_alignBottom="@+id/btnOk2"
+                    android:layout_alignLeft="@+id/txtDescricaoNota2"
+                    android:layout_alignStart="@+id/txtDescricaoNota2"
+                    android:layout_alignTop="@+id/btnOk2" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    tools:text="Escolha a nota"
+                    android:id="@+id/txtDescricaoNota2"
+                    android:textColor="@color/textoGosto"
+                    android:layout_above="@+id/rtbInteresse2"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    />
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/btnOk2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_done_black_24dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignRight="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtNomeProdutoVitrine2"
+                    android:layout_marginBottom="8dp"
+                    app:backgroundTint="#4CAF50"/>
+
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Não gostei"
+                    android:textColor="@color/textoGosto"
+                    android:id="@+id/txtDescNota2_1"
+                    android:background="#ffffff"
+                    android:layout_below="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine2"
+                    android:paddingLeft="40dp" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Razoável"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:id="@+id/txtDescNota2_2"
+                    android:background="#ffffff"
+                    android:layout_below="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine2" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Gostei"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:background="#ffffff"
+                    android:id="@+id/txtDescNota2_3"
+                    android:layout_below="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine2" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Gostei Muito"
+                    android:paddingLeft="40dp"
+                    android:id="@+id/txtDescNota2_4"
+                    android:background="#ffffff"
+                    android:textColor="@color/textoGosto"
+                    android:layout_below="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine2" />
+                <TextView
+                    android:visibility="invisible"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="Excelente"
+                    android:paddingLeft="40dp"
+                    android:textColor="@color/textoGosto"
+                    android:background="#ffffff"
+                    android:id="@+id/txtDescNota2_5"
+                    android:layout_below="@+id/txtNomeProdutoVitrine2"
+                    android:layout_alignRight="@+id/txtPrecoProdutoVitrine2"
+                    android:layout_alignEnd="@+id/txtPrecoProdutoVitrine2" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+        <!-- Final Cartao 2 -->
+    </FrameLayout>
+
+</LinearLayout>

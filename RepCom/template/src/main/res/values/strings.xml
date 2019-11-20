@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">RepCom</string>
+
+    <string name="sync_account_type">lojadigicom.repcom</string>
+    <string name="content_authority">br.com.lojadigicom.repcom</string>
+</resources>

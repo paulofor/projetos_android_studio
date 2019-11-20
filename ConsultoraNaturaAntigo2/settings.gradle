@@ -1,0 +1,2 @@
+include ':digicomAndroidLib'
+include ':consultoraNatura2'

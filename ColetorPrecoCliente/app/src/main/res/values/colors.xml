@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLigth">#C5CAE9</color>   <!-- Indigo 100 -->
+    <color name="colorPrimary">#3F51B5</color> <!-- Indigo 500 -->
+    <color name="colorPrimaryDark">#283593</color>  <!-- Indigo 800 -->
+    <color name="colorAccent">#CCFF9100</color>     <!-- Accent A200 Yellow -->
+
+    <color name="colorComplemento">#00796B</color>
+
+    <!-- Item OportunidadeDia -->
+    <color name="textoNomeProduto">#263238</color> <!-- Blue Grey -->
+    <color name="precoReferencia">#00796B</color>
+    <color name="precoAtual">#B71C1C</color>
+    <color name="dadoRodape">#78909C</color>  <!-- Blue Grey -->
+    <!-- Item Detalhe Oportunidade -->
+    <color name="fundoPreco">#ccE53935</color>
+
+
+    <!-- Vitrine -->
+    <color name="textoNomeProdutoVitrine">#000000</color>
+    <color name="fundoNomeProduto">#ffffff</color>
+    <color name="fundoCartao">#ffffff</color>
+    <color name="textoPreco">#8C001A</color>
+    <color name="textoGosto">#8C001A</color>
+    <color name="textoDica">#663399</color>
+    <color name="fundoGeral">#ffffff</color>
+
+
+</resources>

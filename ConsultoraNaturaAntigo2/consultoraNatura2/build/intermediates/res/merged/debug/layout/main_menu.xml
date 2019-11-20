@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".TreinoLetraPrincipalActivity" >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnSincronizacao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sincronizar" />
+
+        <Button
+            android:id="@+id/btnResumoMes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Resumo" />
+        
+ 		<Button
+            android:id="@+id/btnCliente"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Clientes" />
+        
+ 		<Button
+            android:id="@+id/btnProduto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Produtos" />
+      
+		<Button
+            android:id="@+id/btnVenda"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Vendas" />
+
+    </LinearLayout>
+
+</LinearLayout>

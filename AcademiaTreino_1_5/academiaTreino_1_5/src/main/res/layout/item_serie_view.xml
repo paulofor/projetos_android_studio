@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/lytExercicio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/palette2"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/lblExercicioTreino"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Nome"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/lblRegulagemExecucao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Regulagem"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <Chronometer
+        android:id="@+id/chrTempo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lytExercicio"
+        android:background="@color/palette4"
+        android:gravity="center"
+        android:text="00:00"
+        android:textSize="60sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lytCmdItemSerie"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/chrTempo"
+        android:background="@color/palette3"
+        >
+        
+    
+    <LinearLayout
+        android:id="@+id/lytSeries"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Séries"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TableLayout
+	        android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+				<TextView
+	                android:id="@+id/lblCarga1"
+	                android:layout_height="wrap_content"
+	                android:layout_column="0"
+	                android:text="Carga"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	            <EditText
+	                android:id="@+id/txtCargaExecucao1"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_column="1"
+	                android:inputType="numberDecimal" />
+
+	            <TextView
+	                android:id="@+id/txtCargaExecucao1Anterior1"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="2"
+	                android:text="CargaExecucao1Anterior1" />
+	            <TextView
+	                android:id="@+id/txtCargaExecucao1Anterior2"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="3"
+	                android:text="CargaExecucao1Anterior2" />
+	            <TextView
+	                android:id="@+id/txtCargaExecucao1Anterior3"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="4"
+	                android:text="CargaExecucao1Anterior3" />
+				
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+            	<TextView
+	                android:id="@+id/lblRepeticoes1"
+	                android:layout_height="wrap_content"
+	                android:text="Repetições"
+	                android:layout_column="0"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+				<EditText
+	                android:id="@+id/txtRepeticoes1"
+	                android:layout_height="wrap_content"
+	                android:layout_width="fill_parent"
+	                android:layout_column="1"
+	                android:inputType="number" />
+				<Button
+				    android:id="@+id/btnInicializa1"
+				    style="?android:attr/buttonStyleSmall"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="2"
+				    android:text="Inicializa" />
+
+				<TextView
+				    android:id="@+id/txtRepeticoes1Anterior1"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="3"
+				    android:text="txtRepeticoes1Anterior1" />
+				<TextView
+				    android:id="@+id/txtRepeticoes1Anterior2"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="4"
+				    android:text="txtRepeticoes1Anterior2" />
+				<TextView
+				    android:id="@+id/txtRepeticoes1Anterior3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="5"
+				    android:text="txtRepeticoes1Anterior3" />
+            </TableRow>
+        </TableLayout>
+        
+        
+        
+        
+       <TableLayout
+	        android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+				<TextView
+	                android:id="@+id/lblCarga2"
+	                android:layout_height="wrap_content"
+	                android:layout_column="0"
+	                android:text="Carga"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	            <EditText
+	                android:id="@+id/txtCargaExecucao2"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_column="1"
+	                android:inputType="numberDecimal" />
+
+	            <TextView
+	                android:id="@+id/txtCargaExecucao2Anterior1"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="3"
+	                android:text="txtCargaExecucao2Anterior1" />
+	             <TextView
+	                android:id="@+id/txtCargaExecucao2Anterior2"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="4"
+	                android:text="txtCargaExecucao2Anterior2" />
+	              <TextView
+	                android:id="@+id/txtCargaExecucao2Anterior3"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_column="5"
+	                android:text="txtCargaExecucao2Anterior3" />
+				
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+            	<TextView
+	                android:id="@+id/lblRepeticoes2"
+	                android:layout_height="wrap_content"
+	                android:text="Repetições"
+	                android:layout_column="0"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+				<EditText
+	                android:id="@+id/txtRepeticoes2"
+	                android:layout_height="wrap_content"
+	                android:layout_width="fill_parent"
+	                android:layout_column="1"
+	                android:inputType="number" />
+				<Button
+				    android:id="@+id/btnInicializa2"
+				    style="?android:attr/buttonStyleSmall"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="2"
+				    android:text="Inicializa" />
+
+				<TextView
+				    android:id="@+id/txtRepeticoes2Anterior1"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes2Anterior1" />
+				<TextView
+				    android:id="@+id/txtRepeticoes2Anterior2"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes2Anterior2" />
+				<TextView
+				    android:id="@+id/txtRepeticoes2Anterior3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes2Anterior3" />
+
+            </TableRow>
+        </TableLayout>
+        
+          
+          
+          
+            <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+				<TextView
+	                android:id="@+id/lblCarga3"
+	                android:layout_height="wrap_content"
+	                android:layout_column="0"
+	                android:text="Carga"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	            <EditText
+	                android:id="@+id/txtCargaExecucao3"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_column="1"
+	                android:inputType="numberDecimal" />
+
+	            <TextView
+	                android:id="@+id/txtCargaExecucao3Anterior1"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="txtCargaExecucao3Anterior1" />
+	            <TextView
+	                android:id="@+id/txtCargaExecucao3Anterior2"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="txtCargaExecucao3Anterior2" />
+	            <TextView
+	                android:id="@+id/txtCargaExecucao3Anterior3"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="txtCargaExecucao3Anterior3" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+            	<TextView
+	                android:id="@+id/lblRepeticoes3"
+	                android:layout_height="wrap_content"
+	                android:text="Repetições"
+	                android:layout_column="0"
+	                android:textAppearance="?android:attr/textAppearanceMedium" />
+				<EditText
+	                android:id="@+id/txtRepeticoes3"
+	                android:layout_height="wrap_content"
+	                android:layout_width="fill_parent"
+	                android:layout_column="1"
+	                android:inputType="number" />
+				<Button
+				    android:id="@+id/btnInicializa3"
+				    style="?android:attr/buttonStyleSmall"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:layout_column="2"
+				    android:text="Inicializa" />
+
+				<TextView
+				    android:id="@+id/txtRepeticoes3Anterior1"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes3Anterior1" />
+				<TextView
+				    android:id="@+id/txtRepeticoes3Anterior2"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes3Anterior2" />
+				<TextView
+				    android:id="@+id/txtRepeticoes3Anterior3"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:text="txtRepeticoes3Anterior3" />
+
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+	</ScrollView>
+   
+    
+    <LinearLayout
+        
+        android:id="@+id/lytCmdItemSerie"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@color/palette1"
+        android:orientation="vertical" 
+        android:animateLayoutChanges="true">
+
+        <Button
+            android:id="@+id/btnConcluidoCorrente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Concluído"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

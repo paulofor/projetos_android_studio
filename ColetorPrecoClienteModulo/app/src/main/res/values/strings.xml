@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Olho no Preco Modulo</string>
+    <string name="content_authority">br.com.lojadigicom.coletorprecocliente.modulo</string>
+
+</resources>
